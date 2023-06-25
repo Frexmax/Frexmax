@@ -1,2 +1,2 @@
 # Frexmax
-I'm bad 
+Just your average programmer
